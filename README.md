@@ -74,6 +74,10 @@ Widget can be found in the [widget folder](/widget).
 -   `!countold [days]` - Count tasks that are at least `[days]` days old (e.g. `!countold 7`)
 -   `!adel @user` - Remove all tasks from a user
 
+## Support
+
+Get support on Discord: https://discord.gg/FuN48jdrv7
+
 ## Credits
 
 - [RythonDev](https://twitch.tv/RythonDev)
